@@ -2,6 +2,8 @@
 a sus-o-meter made by AProXD in java.
 ![](images/susometer.png)
 
+<img src = "images/susometer.png" width = "100">
+
 _made for fun and for practice._
 
 ## commands:
