@@ -24,4 +24,6 @@ _made for fun and for practice._
 
 - **help:** gives you a list of commands
 
+---
+
 <img src = "images/sus detector.png" width = "500">
