@@ -20,6 +20,8 @@ _made for fun and for practice._
 
 - **exit:** Exits the program
 
-- **credits:** shows you the credits  <img src = "images/sus detector.png" width = "500">
+- **credits:** shows you the credits  
 
 - **help:** gives you a list of commands
+
+<img src = "images/sus detector.png" width = "500">
