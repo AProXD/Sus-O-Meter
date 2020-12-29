@@ -1,7 +1,7 @@
 # Sus-O-Meter
 a sus-o-meter made by AProXD in java.
 ![](susometer.png)
-_made for fun and to practice._
+_made for fun and for practice._
 
 ## commands:
 **sus:** tells you who is acting suspicious
