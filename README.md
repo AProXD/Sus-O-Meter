@@ -1,6 +1,6 @@
 # Sus-O-Meter
 a sus-o-meter made by AProXD in java.
-![](susometer.png)
+![](images/susometer.png)
 
 _made for fun and for practice._
 
