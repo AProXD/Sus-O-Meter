@@ -1,7 +1,7 @@
 # Sus-O-Meter
 a sus-o-meter made by AProXD in java.
 
-<img src = "images/susometer.png" width = "500"> <img src = "images/sus detector.png" width = "500">
+<img src = "images/susometer.png" width = "500"> 
 
 _made for fun and for practice._
 
@@ -20,6 +20,6 @@ _made for fun and for practice._
 
 - **exit:** Exits the program
 
-- **credits:** shows you the credits
+- **credits:** shows you the credits  <img src = "images/sus detector.png" width = "500">
 
 - **help:** gives you a list of commands
