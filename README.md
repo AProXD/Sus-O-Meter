@@ -1,7 +1,7 @@
 # Sus-O-Meter
 a sus-o-meter made by AProXD in java.
 
-<img src = "images/susometer.png" width = "500"> 
+<img src = "/Sus-O-Meter/res/susometer.png" width = "500"> 
 
 _made for fun and for practice._
 
