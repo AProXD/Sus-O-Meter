@@ -26,4 +26,4 @@ _made for fun and for practice._
 
 ---
 
-<img src = "images/sus detector.png" width = "500">
+<img src = "/Sus-O-Meter/res/sus detector.png" width = "500">
