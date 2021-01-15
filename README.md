@@ -29,4 +29,4 @@ _made for fun and for practice._
 <img src = "/Sus-O-Meter/res/sus detector.png" width = "500">
 
 ---
-<img src = "/res/susometergif.gif" width = "400">
+<img src = "/Sus-O-Meter/res/susometergif.gif" width = "400">
